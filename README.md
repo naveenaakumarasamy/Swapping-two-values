@@ -18,11 +18,19 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+```python
+#swapping two varriables
+#developed by: Naveenaa A.K
+#register number:22003091
+a=int(input())
+b=int(input())
+c=b
+b=a
+a=c
+print("Swapped values are",a,b)
+```
+## output
+![output](/outputswap.png)
+save
 ## RESULT:
 Thus the swapping of two values are successfully executed
-
-
-
